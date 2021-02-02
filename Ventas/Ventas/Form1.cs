@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Tienes que actuar y estar dispuesto a fracasar. Si tienes miedo a fracasar, no vas a llegar muy lejos");
         }
     }
 }
